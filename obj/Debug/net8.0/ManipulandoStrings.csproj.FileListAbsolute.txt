@@ -1,0 +1,15 @@
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.exe
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.deps.json
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.dll
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.pdb
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.sourcelink.json
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.dll
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\refint\ManipulandoStrings.dll
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.pdb
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\ManipulandoStrings\obj\Debug\net8.0\ref\ManipulandoStrings.dll
